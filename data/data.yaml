@@ -1,0 +1,13 @@
+names:
+- chair
+- desk
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: desk-and-chair-set
+  url: https://universe.roboflow.com/transportasi-h7ccf/desk-and-chair-set/dataset/2
+  version: 2
+  workspace: transportasi-h7ccf
+test: /content/desk-and-chair-set-2/test/images
+train: /content/desk-and-chair-set-2/train/images
+val: /content/desk-and-chair-set-2/valid/images
