@@ -1,0 +1,1 @@
+# rizanovita-yolov8-labeling-project-mejakursi-annotation
