@@ -214,10 +214,10 @@ Kinerja Terbaik: Kelas desk lebih konsisten (R=0.857) dibanding chair (R=0.714).
 
 
 ## Confusion matrix
-![Contoh Labeling](data/confusion_matrix(2).png)
+![Contoh Labeling](data/confusion_matrix.png)
 
 ## Results
-![Contoh Labeling](data/results(1).png)
+![Contoh Labeling](data/results.png)
 
 ## 📬 Contact
 
